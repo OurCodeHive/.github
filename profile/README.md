@@ -98,6 +98,8 @@
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/c4b54865-b42e-48de-a07f-1654d023466a">
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/6ef778f3-e218-4f27-9886-7547f8ce6184">
 
+
+<br/>
 <br/>
 
 # :wrench: 기술스택
@@ -167,7 +169,7 @@
 
 <br/>
 
-# :movie_camera: UCC 영상 
+# :movie_camera: UCC
 <div align="center">
 
 <a href="https://youtu.be/EHhbgAoXq_k?si=6slBEiaxzKM0c6ju" target="_blank">
