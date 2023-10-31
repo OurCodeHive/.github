@@ -167,8 +167,6 @@
 
 # :family: 팀 소개
 
-<br/>
-
 |**[지민성](https://github.com/minsung37)**|**[정민](https://github.com/JeongMiiiin)**|**[석다영](https://github.com/Daen12)**|**[최하영](https://github.com/Headfish96)**|**[이강호](https://github.com/gleehave)**|**[김민식](https://github.com/bigstar017)** |
 | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://avatars.githubusercontent.com/u/102503928?v=4" width="800">](https://github.com/minsung37) | [<img src="https://avatars.githubusercontent.com/u/112797177?v=4" width="800">](https://github.com/JeongMiiiin)| [<img src="https://avatars.githubusercontent.com/u/111489407?v=4" width="800">](https://github.com/Daen12) | [<img src="https://avatars.githubusercontent.com/u/41338713?v=4" width="800">](https://github.com/Headfish96) | [<img src="https://avatars.githubusercontent.com/u/91510831?v=4" width="800">](https://github.com/gleehave) | [<img src="https://avatars.githubusercontent.com/u/122500500?v=4" width="800">](https://github.com/bigstar017) |
