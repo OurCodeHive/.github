@@ -156,7 +156,10 @@
 ## 시스템 구조도
 
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/6602e4da-642b-4d00-86fc-76e126d53a0a"/>
+
 <br/>
+<br/>
+
 
 # :family: 팀 소개
 
