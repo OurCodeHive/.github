@@ -14,38 +14,82 @@
 </div>
 <br>
 
-## :clipboard: 기획배경
+# :clipboard: 기획배경
 SSAFY 내 설문조사 결과 언급
 
 <br/>
 
-## :date: 프로젝트 진행 기간
+# :date: 프로젝트 진행 기간
 | 개발기간 | 2023.07.10 ~ 2023.08.18 (6주) |
 | --- | --- |
 <br/>
 
-## :family: 프로젝트 멤버
+
+
+# :wrench: 기술스택
+<br/>
+
+## Client
+
+- Node.js 18.16.1
+- Vite 3.3.2
+- React 18.2.0
+- TypeScript 5.61.0
+- recoil 0.7.7
+- Axios 1.4.0
+
+## Server
+
+- SpringBoot 3.1.1
+- Spring Data JPA
+- Speing Security
+- STOMP
+- Openvidu
+
+## DB
+
+- MySQL 8.0.31
+- MongoDB
+
+## Infra
+
+- Ubuntu 20.04
+- Nginx
+- AWS EC2
+- AWS S3
+- AWS RDS
+- AWS Lambda
+- AWS API Gateway
+- MongoDB Atlas
+
+# :sparkles: 기능 소개
+<br/>
+
+# :triangular_ruler: 개발 산출물
+
+
+## 인터페이스 설계서
+
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/af008678-5d7c-4891-9fe5-849909598dde"/>
+
+**[Notion](https://www.notion.so/minsung37/CodeHive-893775e46d3d447fbe23837cca6ff36e)**
+
+## ERD
+
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/db96a94b-3075-487f-b1ba-90291d6a811a"/>
+
+## 시스템 아키텍쳐
+
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/6602e4da-642b-4d00-86fc-76e126d53a0a"/>
+<br/>
+
+# :family: 프로젝트 멤버
 
 |**[지민성](https://github.com/minsung37)**|**[정민](https://github.com/JeongMiiiin)**|**[석다영](https://github.com/Daen12)**|**[최하영](https://github.com/Headfish96)**|**[이강호](https://github.com/gleehave)**|**[김민식](https://github.com/bigstar017)** |
 | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/102503928?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/112797177?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/111489407?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/41338713?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/91510831?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/122500500?v=4" width="800"> |
 |Frontend|Frontend|Frontend|Backend|Backend|Backend|
 
-<br/>
-
-## :triangular_ruler: 아키텍처
-<img src="https://github.com/OurCodeHive/.github/assets/102503928/6602e4da-642b-4d00-86fc-76e126d53a0a"/>
-<br/>
-
-## :wrench: 기술스택
-<br/>
-
-## :sparkles: 기능 소개
-<br/>
-
-
-
-## :clipboard: 포팅 매뉴얼
 <br/>
 
 ## :movie_camera: UCC 영상 
