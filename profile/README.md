@@ -66,44 +66,54 @@ SSAFY 내 설문조사 결과 언급
 
 ### 회원가입
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/e2c9c545-373a-4278-b8ba-abdb679c06c9">
+
 <br/>
 
 ### 로그인
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/c39c095b-b473-47de-815e-d38678e9aa00">
+
 <br/>
 
 ### 비밀번호 찾기
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/8004d0b4-a701-4048-864d-a718a3141f87">
+
 <br/>
 
 ### 메인화면
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/8641bfd1-b95f-459c-aa54-a6c1b7255847">
+
 <br/>
 
 ### 스터티 생성
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/16761799-37a7-47e9-9e84-5ffcac075041">
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/d5ebd3e5-68e8-4c72-b97b-3271e01dcc69">
+
 <br/>
 
 ### 스터디 일정관리
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/8ef87585-4903-4971-b868-5592fea940b6">
+
 <br/>
 
 ### 스터디 자료 업로드
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/57d3e0c3-250b-440c-8ee8-cb93b617a356">
+
 <br/>
 
 ### 스터디 중 채팅
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/e2822f06-c166-403e-a715-a80976a89a2d">
+
 <br/>
 
 ### 스터티 중 문서/코드 공유편집
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/7775000a-0f84-4232-8de1-8ce65b032b05">
+
 <br/>
 
 ### 스터디 중 문서/코드 다운로드
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/c4b54865-b42e-48de-a07f-1654d023466a">
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/6ef778f3-e218-4f27-9886-7547f8ce6184">
+
 <br/>
 
 # :triangular_ruler: 개발 산출물
@@ -135,4 +145,7 @@ SSAFY 내 설문조사 결과 언급
 <br/>
 
 ## :movie_camera: UCC 영상 
+
+[![Video Label](https://img.youtube.com/vi/EHhbgAoXq_k/0.jpg)](https://youtu.be/EHhbgAoXq_k?si=6slBEiaxzKM0c6ju)
+
 <br/>
