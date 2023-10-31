@@ -114,7 +114,7 @@
 - Vite 3.3.2
 - React 18.2.0
 - TypeScript 5.61.0
-- recoil 0.7.7
+- Recoil 0.7.7
 - Axios 1.4.0
 
 ## Server
