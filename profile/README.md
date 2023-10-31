@@ -68,7 +68,7 @@
 
 <br/>
 
-### 스터티 생성
+### 스터디 생성
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/16761799-37a7-47e9-9e84-5ffcac075041">
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/d5ebd3e5-68e8-4c72-b97b-3271e01dcc69">
 
