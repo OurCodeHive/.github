@@ -145,7 +145,10 @@ SSAFY 내 설문조사 결과 언급
 <br/>
 
 ## :movie_camera: UCC 영상 
+<div align="center">
 
 [![Video Label](https://img.youtube.com/vi/EHhbgAoXq_k/0.jpg)](https://youtu.be/EHhbgAoXq_k?si=6slBEiaxzKM0c6ju)
+
+</div>
 
 <br/>
