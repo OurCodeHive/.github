@@ -84,17 +84,17 @@
 
 <br/>
 
-### 스터디 중 채팅
+### 스터디 진행 중 채팅
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/e2822f06-c166-403e-a715-a80976a89a2d">
 
 <br/>
 
-### 스터티 중 문서/코드 공유편집
+### 스터디 진행 중 문서/코드 공유편집
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/7775000a-0f84-4232-8de1-8ce65b032b05">
 
 <br/>
 
-### 스터디 중 문서/코드 다운로드
+### 스터디 진행 중 문서/코드 다운로드
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/c4b54865-b42e-48de-a07f-1654d023466a">
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/6ef778f3-e218-4f27-9886-7547f8ce6184">
 
@@ -136,6 +136,8 @@
 - MongoDB Atlas
 - Vercel
 
+<br/>
+
 
 # :triangular_ruler: 개발 산출물
 
@@ -149,18 +151,18 @@
 
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/db96a94b-3075-487f-b1ba-90291d6a811a"/>
 
-## 시스템 아키텍쳐
+## 시스템 구조도
 
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/6602e4da-642b-4d00-86fc-76e126d53a0a"/>
 <br/>
 
-# :family: 프로젝트 멤버
+# :family: 팀 소개
 
 <br/>
 
 |**[지민성](https://github.com/minsung37)**|**[정민](https://github.com/JeongMiiiin)**|**[석다영](https://github.com/Daen12)**|**[최하영](https://github.com/Headfish96)**|**[이강호](https://github.com/gleehave)**|**[김민식](https://github.com/bigstar017)** |
 | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/102503928?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/112797177?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/111489407?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/41338713?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/91510831?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/122500500?v=4" width="800"> |
+| [<img src="https://avatars.githubusercontent.com/u/102503928?v=4" width="800">](https://github.com/minsung37) | [<img src="https://avatars.githubusercontent.com/u/112797177?v=4" width="800">](https://github.com/JeongMiiiin)| [<img src="https://avatars.githubusercontent.com/u/111489407?v=4" width="800">](https://github.com/Daen12) | [<img src="https://avatars.githubusercontent.com/u/41338713?v=4" width="800">](https://github.com/Headfish96) | [<img src="https://avatars.githubusercontent.com/u/91510831?v=4" width="800">](https://github.com/gleehave) | [<img src="https://avatars.githubusercontent.com/u/122500500?v=4" width="800">](https://github.com/bigstar017) |
 |FE/Infra/팀장|Frontend|Frontend|Backend/발표|Backend|Backend|
 
 <br/>
