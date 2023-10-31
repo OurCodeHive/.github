@@ -1,6 +1,8 @@
 # ALL-IN-ONE 알고리즘 스터디 웹 서비스 - CodeHive 🏆
 
-![image](https://blog.kakaocdn.net/dn/bk0eft/btssaCd9QIF/1a3LzQJBwfHFSQEccr1hYK/img.png)
+![image](https://github.com/OurCodeHive/.github/assets/102503928/4dc05999-a7cb-40a7-aaa1-605b290b8278)
+
+![image](https://github.com/OurCodeHive/.github/assets/102503928/8637bcb7-279f-4f1e-8396-6c041ec4acf5)
 
 <div align="center">
 <h1>🏆 SSAFY 9기 공통프로젝트 우수상 🏆</h1> 
@@ -12,7 +14,9 @@
 <br> 코드하이브는 스터디 생성부터 멤버 초대, 스터디 중 코드 컴파일 및 동시편집 참여, 음성통화와 자료 업로드까지, 이 모든 과정을 한 플랫폼에서 가능하도록 해줍니다. 
 <br> 코드와 커뮤니티가 만나는 공간, 코드하이브! 서비스 개발 과정과 상세 기능에 대해 알고 싶으시다면 아래 내용을 읽어주세요.
 </div>
-<br>
+
+<br/>
+<br/>
 
 # :date: 프로젝트 진행 기간
 | 프로젝트 기간 | 2023.07.10 ~ 2023.08.18 (6주) |
