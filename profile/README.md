@@ -14,55 +14,39 @@
 </div>
 <br>
 
-# :clipboard: 기획배경
-SSAFY 내 설문조사 결과 언급
-
-<br/>
-
 # :date: 프로젝트 진행 기간
-| 개발기간 | 2023.07.10 ~ 2023.08.18 (6주) |
+| 프로젝트 기간 | 2023.07.10 ~ 2023.08.18 (6주) |
 | --- | --- |
 <br/>
 
+# :clipboard: 기획배경
 
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/74bc05b8-6021-4d04-bb7f-1139b5ee712e">
+<br/>
 
-# :wrench: 기술스택
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/206eea57-76ad-47e5-845c-198ef4b9af68">
+<br/>
 
-## Client
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/5dc70453-062e-4616-b8dc-75688d50c9e6">
+<br/>
 
-- Node.js 18.16.1
-- Vite 3.3.2
-- React 18.2.0
-- TypeScript 5.61.0
-- recoil 0.7.7
-- Axios 1.4.0
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/01610c30-8125-4754-b0dd-cd4ca8c7bc36">
+<br/>
 
-## Server
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/f2341be4-8b28-4ea3-9756-7b39166ef0fe">
+<br/>
 
-- SpringBoot 3.1.1
-- Spring Data JPA
-- Speing Security
-- STOMP
-- Openvidu
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/cb6a3f56-7381-4d6e-a096-fa30cee63692">
+<br/>
 
-## DB
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/0b4b6b76-e955-4365-b257-f80973ad915c">
+<br/>
 
-- MySQL 8.0.31
-- MongoDB
-
-## Infra
-
-- Ubuntu 20.04
-- Nginx
-- AWS EC2
-- AWS S3
-- AWS RDS
-- AWS Lambda
-- AWS API Gateway
-- MongoDB Atlas
-- Vercel
+<br/>
 
 # :sparkles: 기능 소개
+
+<img src="https://github.com/OurCodeHive/.github/assets/102503928/2ef9b726-d9b3-4b27-b5fa-65a736691b9a">
 
 ### 회원가입
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/e2c9c545-373a-4278-b8ba-abdb679c06c9">
@@ -115,6 +99,43 @@ SSAFY 내 설문조사 결과 언급
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/6ef778f3-e218-4f27-9886-7547f8ce6184">
 
 <br/>
+
+# :wrench: 기술스택
+
+## Client
+
+- Node.js 18.16.1
+- Vite 3.3.2
+- React 18.2.0
+- TypeScript 5.61.0
+- recoil 0.7.7
+- Axios 1.4.0
+
+## Server
+
+- SpringBoot 3.1.1
+- Spring Data JPA
+- Speing Security
+- STOMP
+- Openvidu
+
+## DB
+
+- MySQL 8.0.31
+- MongoDB
+
+## Infra
+
+- Ubuntu 20.04
+- Nginx
+- AWS EC2
+- AWS S3
+- AWS RDS
+- AWS Lambda
+- AWS API Gateway
+- MongoDB Atlas
+- Vercel
+
 
 # :triangular_ruler: 개발 산출물
 
