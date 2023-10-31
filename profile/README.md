@@ -1,9 +1,9 @@
-# ALL-IN-ONE 알고리즘 스터디 웹 서비스, CodeHive  
+# ALL-IN-ONE 알고리즘 스터디 웹 서비스 - CodeHive 🏆
 
 ![image](https://blog.kakaocdn.net/dn/bk0eft/btssaCd9QIF/1a3LzQJBwfHFSQEccr1hYK/img.png)
 
 <div align="center">
-<h3>🏆 SSAFY 공통프로젝트 우수상 🏆</h3> 
+<h1>🏆 SSAFY 공통프로젝트 우수상 🏆</h1> 
 </div>
 <br>
 <div align="center">
