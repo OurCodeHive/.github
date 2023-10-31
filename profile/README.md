@@ -3,7 +3,7 @@
 ![image](https://blog.kakaocdn.net/dn/bk0eft/btssaCd9QIF/1a3LzQJBwfHFSQEccr1hYK/img.png)
 
 <div align="center">
-<h1>🏆 SSAFY 공통프로젝트 우수상 🏆</h1> 
+<h1>🏆 SSAFY 9기 공통프로젝트 우수상 🏆</h1> 
 </div>
 <br>
 <div align="center">
