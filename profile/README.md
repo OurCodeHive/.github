@@ -31,20 +31,7 @@
 <img src="https://github.com/OurCodeHive/.github/assets/102503928/206eea57-76ad-47e5-845c-198ef4b9af68">
 <br/>
 
-<img src="https://github.com/OurCodeHive/.github/assets/102503928/5dc70453-062e-4616-b8dc-75688d50c9e6">
-<br/>
 
-<img src="https://github.com/OurCodeHive/.github/assets/102503928/01610c30-8125-4754-b0dd-cd4ca8c7bc36">
-<br/>
-
-<img src="https://github.com/OurCodeHive/.github/assets/102503928/f2341be4-8b28-4ea3-9756-7b39166ef0fe">
-<br/>
-
-<img src="https://github.com/OurCodeHive/.github/assets/102503928/cb6a3f56-7381-4d6e-a096-fa30cee63692">
-<br/>
-
-<img src="https://github.com/OurCodeHive/.github/assets/102503928/0b4b6b76-e955-4365-b257-f80973ad915c">
-<br/>
 
 <br/>
 
